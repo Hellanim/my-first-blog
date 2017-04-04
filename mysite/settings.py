@@ -25,7 +25,7 @@ SECRET_KEY = '-w()e7)#y4v(x79225$2xj@n6z**#n!2zi%j786_3uhx!eysit'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [hellanim.pythonanywhere.com]
+ALLOWED_HOSTS = ['hellanim.pythonanywhere.com']
 
 
 # Application definition
